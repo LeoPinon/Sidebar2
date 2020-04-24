@@ -5,6 +5,7 @@ document.querySelector('.hamburger-menu')
 });
 
 
+
 /*document.querySelector(".nav-list")
 .addEventListener("click",e => {
   const el = e.target.parentElement;
